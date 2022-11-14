@@ -5,8 +5,9 @@
 I'm Mahfuz Zazman from Bangladesh, and I do content on Web Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in JavScript.
 ## Skills and Experience
 * ⚛ React
-* 📱 React Native
-* 💻 HTML, CSS, JS,Node.js,MongoDB,Tailwind CSS
+* 📱Angular
+* 🚀Nest
+* 💻 HTML, CSS, JS,Node.js,MongoDB,SCSS
 
 
 ### Connect with me:
